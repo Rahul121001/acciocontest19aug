@@ -1,0 +1,21 @@
+th{
+    width: 150px;
+    height: 20px;
+    
+}
+td{
+    height: 50px;
+    width: 50px;
+    font-style: italic;
+    text-align-last: initial;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td.rahul{
+    color: blue;
+    text-decoration: underline;
+    
+}
+th.p{
+    color: blueviolet;
+
+}
